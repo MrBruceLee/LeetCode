@@ -10,3 +10,4 @@
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./C++/FindTheDuplicateNumber.cpp)| Hard |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/BestMeetingPoint.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangle EnclosingBlackPixels.cpp)| Hard |
+| [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
