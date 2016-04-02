@@ -14,6 +14,8 @@
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/PaintHouse.cpp)| Medium |
 | [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](./C++/PaintHouse-II.cpp)| Hard |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./C++/FindTheDuplicateNumber.cpp)| Hard |
+| [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./C++/WordPattern.cpp)| Easy |
+| [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | [C++](./C++/.WordPattern-IIcpp)| Hard |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/BestMeetingPoint.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangleEnclosingBlackPixels.cpp)| Hard |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
