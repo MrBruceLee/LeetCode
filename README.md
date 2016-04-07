@@ -20,6 +20,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | [C++](./C++/WordPattern-II.cpp)| Hard |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/BestMeetingPoint.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangleEnclosingBlackPixels.cpp)| Hard |
+| [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [C++](./C++/NumberOfIsland-II.cpp)| Hard |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
 | []() | [C++](./C++/.cpp)|  |
 
