@@ -7,6 +7,7 @@ Solutions may developed by different author. I will indicate links in each file.
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/TrappingRainWater.cpp)| Hard |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | [C++](./C++/N-Queens.cpp)| Hard |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/N-Queens-II.cpp)| Hard |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./C++/PopulatingNextRightPointersInEachNode.cpp)| Medium |
