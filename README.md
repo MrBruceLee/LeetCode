@@ -7,6 +7,7 @@ Solutions may developed by different author. I will indicate links in each file.
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/SearchInRotatedSortedArray.cpp)| Hard |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/TrappingRainWater.cpp)| Hard |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | [C++](./C++/N-Queens.cpp)| Hard |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/N-Queens-II.cpp)| Hard |
