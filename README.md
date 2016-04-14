@@ -25,6 +25,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./C++/WordPattern.cpp)| Easy |
 | [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | [C++](./C++/WordPattern-II.cpp)| Hard |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/BestMeetingPoint.cpp)| Hard |
+| [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./C++/RemoveInvalidParentheses.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangleEnclosingBlackPixels.cpp)| Hard |
 | [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [C++](./C++/NumberOfIslands-II.cpp)| Hard |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
