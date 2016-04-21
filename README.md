@@ -23,6 +23,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [C++](./C++/LongestSubstringWithAtMostTwoDistinctCharacters.cpp)| Hard |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./C++/SlidingWindowMaximum.cpp)| Hard |
+| [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [C++](./C++/StrobogrammaticNumber.cpp)| Easy |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/PaintHouse.cpp)| Medium |
 | [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](./C++/PaintHouse-II.cpp)| Hard |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./C++/FindTheDuplicateNumber.cpp)| Hard |
