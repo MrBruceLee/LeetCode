@@ -25,7 +25,8 @@ Solutions may developed by different author. I will indicate links in each file.
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./C++/SlidingWindowMaximum.cpp)| Hard |
 | [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [C++](./C++/StrobogrammaticNumber.cpp)| Easy |
-| [247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | [C++](./C++/StrobogrammaticNumberII.cpp)| Medium |
+| [247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | [C++](./C++/StrobogrammaticNumber-II.cpp)| Medium |
+| [248. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | [C++](./C++/StrobogrammaticNumber-III.cpp)| Hard |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/PaintHouse.cpp)| Medium |
 | [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](./C++/PaintHouse-II.cpp)| Hard |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./C++/FindTheDuplicateNumber.cpp)| Hard |
