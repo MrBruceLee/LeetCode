@@ -13,6 +13,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | [C++](./C++/N-Queens.cpp)| Hard |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/N-Queens-II.cpp)| Hard |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./C++/EditDistance.cpp)| Hard |
+| [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/RecoverBinarySearchTree.cpp)| Hard |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./C++/DistinctSubsequences.cpp)| Hard |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./C++/PopulatingNextRightPointersInEachNode.cpp)| Medium |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./C++/PopulatingNextRightPointersInEachNode-II.cpp)| Hard |
