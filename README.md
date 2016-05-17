@@ -18,12 +18,16 @@ Solutions may developed by different author. I will indicate links in each file.
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./C++/DistinctSubsequences.cpp)| Hard |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./C++/PopulatingNextRightPointersInEachNode.cpp)| Medium |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./C++/PopulatingNextRightPointersInEachNode-II.cpp)| Hard |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./C++/BestTimeToBuyAndSellStock.cpp)| Easy |
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./C++/BestTimeToBuyAndSellStock-II.cpp)| Medium |
+| [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/BestTimeToBuyAndSellStock-III.cpp)| Hard |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./C++/LongestConsecutiveSequence.cpp)| Hard |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/BinaryTreePostorderTraversal.cpp)| Hard |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./C++/FindMinimumInRotatedSortedArray.cpp)| Medium |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./C++/FindMinimumInRotatedSortedArray-II.cpp)| Hard |
 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [C++](./C++/LongestSubstringWithAtMostTwoDistinctCharacters.cpp)| Hard |
 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./C++/MaximumGap.cpp)| Hard |
+| [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./C++/BestTimeToBuyAndSellStock-IV.cpp)| Hard |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./C++/SlidingWindowMaximum.cpp)| Hard |
 | [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [C++](./C++/StrobogrammaticNumber.cpp)| Easy |
