@@ -18,6 +18,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/JumpGame.cpp)| Medium |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/MergeIntervals.cpp)| Hard |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./C++/EditDistance.cpp)| Hard |
+| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/LargestRectangleInHistogram.cpp)| Hard |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/ScrambleString.cpp)| Hard |
 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/RecoverBinarySearchTree.cpp)| Hard |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./C++/DistinctSubsequences.cpp)| Hard |
