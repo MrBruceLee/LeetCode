@@ -35,6 +35,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/BinaryTreePostorderTraversal.cpp)| Hard |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./C++/FindMinimumInRotatedSortedArray.cpp)| Medium |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./C++/FindMinimumInRotatedSortedArray-II.cpp)| Hard |
+| [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [C++](./C++/ReadNCharactersGivenRead4.cpp)| Easy |
 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [C++](./C++/LongestSubstringWithAtMostTwoDistinctCharacters.cpp)| Hard |
 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./C++/MaximumGap.cpp)| Hard |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./C++/BestTimeToBuyAndSellStock-IV.cpp)| Hard |
