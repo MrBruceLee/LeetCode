@@ -42,6 +42,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./C++/BestTimeToBuyAndSellStock-IV.cpp)| Hard |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./C++/TheSkylineProblem.cpp)| Hard |
+| [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./C++/BasicCalculator.cpp)| Hard |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./C++/SlidingWindowMaximum.cpp)| Hard |
 | [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [C++](./C++/StrobogrammaticNumber.cpp)| Easy |
 | [247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | [C++](./C++/StrobogrammaticNumber-II.cpp)| Medium |
