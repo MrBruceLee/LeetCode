@@ -58,6 +58,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./C++/FindTheDuplicateNumber.cpp)| Hard |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./C++/WordPattern.cpp)| Easy |
 | [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | [C++](./C++/WordPattern-II.cpp)| Hard |
+| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./C++/FindMedianFromDataStream.cpp)| Hard |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/BestMeetingPoint.cpp)| Hard |
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./C++/RemoveInvalidParentheses.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangleEnclosingBlackPixels.cpp)| Hard |
