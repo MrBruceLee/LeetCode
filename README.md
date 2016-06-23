@@ -7,6 +7,7 @@ Solutions may developed by different author. I will indicate links in each file.
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./C++/RegularExpressionMatching.cpp)| Hard |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./C++/ValidParentheses.cpp)| Easy |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/MergeKSortedLists.cpp)| Hard |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./C++/ReverseNodesInKGroup.cpp)| Hard |
