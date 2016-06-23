@@ -10,6 +10,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./C++/ValidParentheses.cpp)| Easy |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/MergeKSortedLists.cpp)| Hard |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./C++/ReverseNodesInKGroup.cpp)| Hard |
+| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./C++/LongestValidParentheses.cpp)| Hard |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/SearchInRotatedSortedArray.cpp)| Hard |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/ValidSudoku.cpp)| Easy |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](./C++/SudokuSolver.cpp)| Hard |
