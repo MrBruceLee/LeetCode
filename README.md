@@ -36,6 +36,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./C++/BestTimeToBuyAndSellStock-II.cpp)| Medium |
 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/BestTimeToBuyAndSellStock-III.cpp)| Hard |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./C++/LongestConsecutiveSequence.cpp)| Hard |
+| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [C++](./C++/PalindromePartitioning.cpp)| Hard |
 | [135. Candy](https://leetcode.com/problems/candy/) | [C++](./C++/Candy.cpp)| Hard |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/BinaryTreePostorderTraversal.cpp)| Hard |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./C++/FindMinimumInRotatedSortedArray.cpp)| Medium |
