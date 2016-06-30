@@ -47,6 +47,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [C++](./C++/ReadNCharactersGivenRead4-II-CallMultipleTimes.cpp)| Hard |
 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [C++](./C++/LongestSubstringWithAtMostTwoDistinctCharacters.cpp)| Hard |
 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./C++/MaximumGap.cpp)| Hard |
+| [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./C++/DungeonGame.cpp)| Hard |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./C++/BestTimeToBuyAndSellStock-IV.cpp)| Hard |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./C++/TheSkylineProblem.cpp)| Hard |
