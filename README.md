@@ -66,6 +66,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/BestMeetingPoint.cpp)| Hard |
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./C++/RemoveInvalidParentheses.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangleEnclosingBlackPixels.cpp)| Hard |
+| [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./C++/RangeSumQuery-Immutable.cpp)| Easy |
 | [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [C++](./C++/NumberOfIslands-II.cpp)| Hard |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./C++/CountOfSmallerNumbersAfterSelf.cpp)| Hard |
