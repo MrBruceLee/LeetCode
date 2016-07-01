@@ -67,6 +67,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./C++/RemoveInvalidParentheses.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangleEnclosingBlackPixels.cpp)| Hard |
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./C++/RangeSumQuery-Immutable.cpp)| Easy |
+| [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./C++/RangeSumQuery2D-Immutable.cpp)| Medium |
 | [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [C++](./C++/NumberOfIslands-II.cpp)| Hard |
 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/RangeSumQuery-Mutable.cpp)| Medium |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
