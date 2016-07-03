@@ -70,6 +70,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./C++/RangeSumQuery2D-Immutable.cpp)| Medium |
 | [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [C++](./C++/NumberOfIslands-II.cpp)| Hard |
 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/RangeSumQuery-Mutable.cpp)| Medium |
+| [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./C++/RangeSumQuery2D-Mutable.cpp)| Hard |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./C++/CountOfSmallerNumbersAfterSelf.cpp)| Hard |
 | [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [C++](./C++/CountOfRangeSum.cpp)| Hard |
