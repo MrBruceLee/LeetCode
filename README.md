@@ -75,6 +75,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./C++/CountOfSmallerNumbersAfterSelf.cpp)| Hard |
 | [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [C++](./C++/CountOfRangeSum.cpp)| Hard |
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./C++/LongestIncreasingPathInAMatrix.cpp)| Hard |
+| [335. Self Crossing](https://leetcode.com/problems/self-crossing/) | [C++](./C++/SelfCrossing.cpp)| Hard |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
 | []() | [C++](./C++/.cpp)|  |
 
