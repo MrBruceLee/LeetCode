@@ -43,6 +43,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/PalindromePartitioning-II.cpp)| Hard |
 | [135. Candy](https://leetcode.com/problems/candy/) | [C++](./C++/Candy.cpp)| Hard |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [C++](./C++/WordBreak.cpp)| Medium |
+| [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](./C++/WordBreak-II.cpp)| Hard |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/BinaryTreePostorderTraversal.cpp)| Hard |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./C++/FindMinimumInRotatedSortedArray.cpp)| Medium |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./C++/FindMinimumInRotatedSortedArray-II.cpp)| Hard |
