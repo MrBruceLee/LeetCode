@@ -26,6 +26,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](./C++/InsertInterval.cpp)| Hard |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./C++/EditDistance.cpp)| Hard |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/MinimumWindowSubstring.cpp)| Hard |
+| [79. Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/WordSearch.cpp)| Medium |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/LargestRectangleInHistogram.cpp)| Hard |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./C++/MaximalRectangle.cpp)| Hard |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/ScrambleString.cpp)| Hard |
