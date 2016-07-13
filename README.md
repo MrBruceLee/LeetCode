@@ -53,6 +53,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./C++/DungeonGame.cpp)| Hard |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./C++/BestTimeToBuyAndSellStock-IV.cpp)| Hard |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
+| [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | [C++](./C++/WordSearch-II.cpp)| Hard |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./C++/TheSkylineProblem.cpp)| Hard |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./C++/BasicCalculator.cpp)| Hard |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./C++/SlidingWindowMaximum.cpp)| Hard |
