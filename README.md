@@ -7,6 +7,7 @@ Solutions may developed by different author. I will indicate links in each file.
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/MedianOfTwoSortedArrays.cpp)| Hard |
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./C++/RegularExpressionMatching.cpp)| Hard |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./C++/ValidParentheses.cpp)| Easy |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/MergeKSortedLists.cpp)| Hard |
