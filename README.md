@@ -56,6 +56,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [C++](./C++/OneEditDistance.cpp)| Medium |
 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [C++](./C++/MaximumGap.cpp)| Hard |
 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./C++/TwoSum-II-InputArrayIsSorted.cpp)| Medium |
+| [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./C++/TwoSum-III-DataStructureDesign.cpp)| Easy |
 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./C++/DungeonGame.cpp)| Hard |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./C++/BestTimeToBuyAndSellStock-IV.cpp)| Hard |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
