@@ -10,6 +10,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/TwoSum.cpp)| Easy |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/MedianOfTwoSortedArrays.cpp)| Hard |
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./C++/RegularExpressionMatching.cpp)| Hard |
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | [C++](./C++/3Sum.cpp)| Medium |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./C++/ValidParentheses.cpp)| Easy |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/MergeKSortedLists.cpp)| Hard |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./C++/ReverseNodesInKGroup.cpp)| Hard |
