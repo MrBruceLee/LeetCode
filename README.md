@@ -67,6 +67,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./C++/TheSkylineProblem.cpp)| Hard |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./C++/BasicCalculator.cpp)| Hard |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./C++/SlidingWindowMaximum.cpp)| Hard |
+| [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [C++](./C++/DifferentWaysToAddParentheses.cpp)| Medium |
 | [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [C++](./C++/StrobogrammaticNumber.cpp)| Easy |
 | [247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | [C++](./C++/StrobogrammaticNumber-II.cpp)| Medium |
 | [248. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | [C++](./C++/StrobogrammaticNumber-III.cpp)| Hard |
