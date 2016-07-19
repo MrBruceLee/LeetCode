@@ -71,6 +71,8 @@ Solutions may developed by different author. I will indicate links in each file.
 | [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [C++](./C++/StrobogrammaticNumber.cpp)| Easy |
 | [247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | [C++](./C++/StrobogrammaticNumber-II.cpp)| Medium |
 | [248. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | [C++](./C++/StrobogrammaticNumber-III.cpp)| Hard |
+| [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./C++/MeetingRooms.cpp)| Easy |
+| [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./C++/MeetingRooms-II.cpp)| Medium |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/PaintHouse.cpp)| Medium |
 | [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./C++/3SumSmaller.cpp), [Java](./Java/3SumSmaller.java)| Medium |
 | [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](./C++/PaintHouse-II.cpp)| Hard |
