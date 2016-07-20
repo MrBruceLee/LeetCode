@@ -76,6 +76,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./C++/MeetingRooms-II.cpp)| Medium |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/PaintHouse.cpp)| Medium |
 | [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./C++/3SumSmaller.cpp), [Java](./Java/3SumSmaller.java)| Medium |
+| [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./C++/GraphValidTree.cpp)| Medium |
 | [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](./C++/PaintHouse-II.cpp)| Hard |
 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./C++/IntegerToEnglishWords.cpp)| Hard |
 | [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [C++](./C++/ExpressionAddOperators.cpp)| Hard |
