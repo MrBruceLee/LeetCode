@@ -96,6 +96,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/RangeSumQuery-Mutable.cpp)| Medium |
 | [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./C++/RangeSumQuery2D-Mutable.cpp)| Hard |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./C++/BurstBalloons.cpp)| Hard |
+| [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [C++](./C++/BinaryTreeVerticalOrderTraversal.cpp)| Medium |
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./C++/CountOfSmallerNumbersAfterSelf.cpp)| Hard |
 | [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [C++](./C++/CountOfRangeSum.cpp)| Hard |
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./C++/LongestIncreasingPathInAMatrix.cpp)| Hard |
