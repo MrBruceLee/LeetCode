@@ -67,6 +67,8 @@ Solutions may developed by different author. I will indicate links in each file.
 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | [C++](./C++/WordSearch-II.cpp)| Hard |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./C++/TheSkylineProblem.cpp)| Hard |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./C++/BasicCalculator.cpp)| Hard |
+| [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./C++/LowestCommonAncestorOfABinarySearchTree.cpp)| Easy |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./C++/LowestCommonAncestorOfABinaryTree.cpp)| Medium |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./C++/SlidingWindowMaximum.cpp)| Hard |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [C++](./C++/DifferentWaysToAddParentheses.cpp)| Medium |
 | [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [C++](./C++/StrobogrammaticNumber.cpp)| Easy |
