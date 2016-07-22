@@ -30,11 +30,12 @@ public:
         
         // Conquer
         // if one side return NULL, that means p and q may at the other side and its return value may LCA
+        // if both side are NULL, return NULL (either side)
         if(left == NULL) {
             return right;
         } else if (right == NULL) {
             return left;
-            // if both sides are not return NULL, root must be LCA
+        // if both sides are not return NULL, root must be LCA
         } else {
             return root;
         }
