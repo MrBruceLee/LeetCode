@@ -1,0 +1,7 @@
+minHeap: priority_queue<int, vector<int>, greater<int>>
+maxHeap: priority_queue<int, vector<int>, less<int>>
+
+priority_queue: top()
+queue: front(), back()
+stack: top()
+empty(), size(), emplace(), swap()

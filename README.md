@@ -104,6 +104,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./C++/MaximumSizeSubarraySumEqualsK.cpp)| Medium |
 | [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [C++](./C++/CountOfRangeSum.cpp)| Hard |
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./C++/LongestIncreasingPathInAMatrix.cpp)| Hard |
+| [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [C++](./C++/ReconstructItinerary.cpp)| Medium |
 | [335. Self Crossing](https://leetcode.com/problems/self-crossing/) | [C++](./C++/SelfCrossing.cpp)| Hard |
 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./C++/PalindromePairs.cpp)| Hard |
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](./C++/NestedListWeightSum.cpp)| Easy |
