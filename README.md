@@ -101,6 +101,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [C++](./C++/BinaryTreeVerticalOrderTraversal.cpp)| Medium |
 | [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./C++/CountOfSmallerNumbersAfterSelf.cpp)| Hard |
 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [C++](./C++/NumberOfConnectedComponentsInAnUndirectedGraph.cpp)| Medium |
+| [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./C++/MaximumSizeSubarraySumEqualsK.cpp)| Medium |
 | [327. Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [C++](./C++/CountOfRangeSum.cpp)| Hard |
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./C++/LongestIncreasingPathInAMatrix.cpp)| Hard |
 | [335. Self Crossing](https://leetcode.com/problems/self-crossing/) | [C++](./C++/SelfCrossing.cpp)| Hard |
