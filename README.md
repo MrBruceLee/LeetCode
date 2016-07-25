@@ -36,6 +36,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./C++/MaximalRectangle.cpp)| Hard |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/ScrambleString.cpp)| Hard |
 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./C++/InterleavingString.cpp)| Hard |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./C++/ValidateBinarySearchTree.cpp)| Medium |
 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/RecoverBinarySearchTree.cpp)| Hard |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./C++/BinaryTreeLevelOrderTraversal.cpp)| Easy |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](./C++/BinaryTreeLevelOrderTraversal-II.cpp)| Easy |
