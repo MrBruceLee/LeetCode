@@ -43,6 +43,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](./C++/DistinctSubsequences.cpp)| Hard |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./C++/PopulatingNextRightPointersInEachNode.cpp)| Medium |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./C++/PopulatingNextRightPointersInEachNode-II.cpp)| Hard |
+| [120. Triangle](https://leetcode.com/problems/triangle/) | [C++](./C++/Triangle.cpp)| Medium |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./C++/BestTimeToBuyAndSellStock.cpp)| Easy |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./C++/BestTimeToBuyAndSellStock-II.cpp)| Medium |
 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/BestTimeToBuyAndSellStock-III.cpp)| Hard |
