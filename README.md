@@ -48,7 +48,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./C++/BestTimeToBuyAndSellStock-II.cpp)| Medium |
 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/BestTimeToBuyAndSellStock-III.cpp)| Hard |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./C++/LongestConsecutiveSequence.cpp)| Hard |
-| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [C++](./C++/PalindromePartitioning.cpp)| Hard |
+| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [C++](./C++/PalindromePartitioning.cpp)| Medium |
 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/PalindromePartitioning-II.cpp)| Hard |
 | [135. Candy](https://leetcode.com/problems/candy/) | [C++](./C++/Candy.cpp)| Hard |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [C++](./C++/WordBreak.cpp)| Medium |
@@ -94,6 +94,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./C++/FindMedianFromDataStream.cpp)| Hard |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./C++/SerializeAndDeserializeBinaryTree.cpp)| Hard |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | [C++](./C++/BestMeetingPoint.cpp)| Hard |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./C++/LongestIncreasingSubsequence.cpp)| Medium |
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./C++/RemoveInvalidParentheses.cpp)| Hard |
 | [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [C++](./C++/SmallestRectangleEnclosingBlackPixels.cpp)| Hard |
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./C++/RangeSumQuery-Immutable.cpp)| Easy |
