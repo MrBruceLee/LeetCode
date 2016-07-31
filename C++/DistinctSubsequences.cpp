@@ -1,7 +1,4 @@
 /*
- *  excellent explaination:
- *  https://leetcode.com/discuss/26680/easy-to-understand-dp-in-java
- *
  *  Runtime O(S*T)
  *  Space O(S*T)
  *
@@ -10,28 +7,33 @@
 class Solution {
 public:
     int numDistinct(string s, string t) {
-        int lenT = t.size();
-        int lenS = s.size();
+        vector<vector<int>> table(s.length() + 1, vector<int>(t.length() + 1, 0));
         
-        vector<vector<int>> dp(lenT+1, vector<int>(lenS+1, 0));
+        // initialization
+        // t = "" is a subsequences of each s.substr(0, i)
+        for(int i = 0; i <= s.length(); i++) {
+            table[i][0] = 1;
+        }
         
-        for(int i = 0; i <= lenS; i++) dp[0][i] = 1;
-        
-        for(int i = 1; i <= lenT; i++){
-            for(int j = 1; j <= lenS; j++){
+        // transfer function
+        // table[i][j]: the number of distinct subsequences of t.substr(0, j) in s.substr(0, i)
+        for(int i = 1; i <= s.length(); i++) {
+            for(int j = 1; j <= t.length(); j++) {
                 
-                if(t[i-1] == s[j-1])
-                    dp[i][j] = dp[i][j-1] + dp[i-1][j-1];
-                else
-                    dp[i][j] = dp[i][j-1];
-                
-                // ==> dp[i][j] = dp[i][j-1] + (t[i-1] == s[j-1] ? dp[i-1][j-1] : 0);
+                if(s[i-1] != t[j-1]) {
+                    table[i][j] = table[i-1][j];
+                    
+                } else {
+                    table[i][j] = table[i-1][j-1] + table[i-1][j];
+                }
             }
         }
         
-        return dp[lenT][lenS];
+        // results
+        return table[s.length()][t.length()];
     }
 };
+
 
 
 
@@ -43,31 +45,38 @@ public:
  *
  */
 
+
 class Solution {
 public:
     int numDistinct(string s, string t) {
-        int lenT = t.size();
-        int lenS = s.size();
+        vector<int> table(t.length() + 1, 0);
         
-        vector<int> dp(lenS+1, 1);
+        // initialization
+        // t = "" is a subsequences of s = ""
+        table[0] = 1;
         
-        for(int i = 1; i <= lenT; i++){
+        // transfer function
+        for(int i = 1; i <= s.length(); i++) {
+            // tmp records current row's state, while table has previous row's state
+            vector<int> tmp(t.length() + 1);
             
-            vector<int> temp(lenS+1, 0);
-            
-            for(int j = 1; j <= lenS; j++){
+            for(int j = 1; j <= t.length(); j++) {
                 
-                if(t[i-1] == s[j-1])
-                    temp[j] = temp[j-1] + dp[j-1];
-                else
-                    temp[j] = temp[j-1];
-                
-                // ==> temp[j] = temp[j-1] + (t[i-1] == s[j-1] ? dp[j-1] : 0);
+                if(s[i-1] != t[j-1]) {
+                    tmp[j] = table[j];
+                    
+                } else {
+                    tmp[j] = table[j] + table[j-1];
+                }
             }
             
-            dp = temp;
+            table = tmp;
+            // t = "" is a subsequences of s.substr(0, i)
+            table[0] = 1;
         }
         
-        return dp[lenS];
+        // results
+        return table[t.length()];
     }
+    
 };
