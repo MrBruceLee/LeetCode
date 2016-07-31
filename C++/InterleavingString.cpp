@@ -1,39 +1,49 @@
 /*
- *  Dynamic Programming
+ *  Dynamic programming
  */
+
 
 class Solution {
 public:
     bool isInterleave(string s1, string s2, string s3) {
+        // edge condition
         if(s1.length() + s2.length() != s3.length()) {
             return false;
         }
         
-        int n1 = s1.length();
-        int n2 = s2.length();
-        vector<vector<bool>> dp(n1 + 1, vector<bool>(n2 + 1, false));
+        vector<vector<bool>> table(s1.length() + 1, vector<bool>(s2.length() + 1, false));
         
-        for(int i = 0; i <= n1; i++) {
-            for(int j = 0; j <= n2; j++) {
-                // dp[0][0] = true  --> "" + "" == ""
-                if(i == 0 && j == 0) {
-                    dp[i][j] = true;
+        // initialization
+        table[0][0] = true;
+        for(int i = 1; i <= s1.length(); i++) {
+            table[i][0] = (s1.substr(0, i) == s3.substr(0, i));
+        }
+        for(int i = 1; i <= s2.length(); i++) {
+            table[0][i] = (s2.substr(0, i) == s3.substr(0, i));
+        }
+        
+        // transfer function
+        // table[i][j]: can s1.substr(0, i) and s2.substr(0, j) form s3.substr(0, i+j)
+        for(int i = 1; i <= s1.length(); i++) {
+            for(int j = 1; j <= s2.length(); j++) {
+                
+                int k = i + j;
+                // s1.substr(0, i-1) and s2.substr(0, j) form s3.substr(0, i+j-1) && s1[i-1] == s3[k-1]
+                if(table[i-1][j] == true && s1[i-1] == s3[k-1]) {
+                    table[i][j] = true;
                     
-                    // the s1 == ""
-                } else if(i == 0) {
-                    dp[i][j] = ( dp[i][j-1] && (s2[j-1] == s3[i+j-1]) );
+                    // s1.substr(0, i) and s2.substr(0, j-1) form s3.substr(0, i+j-1) && s2[j-1] == s3[k-1]
+                } else if(table[i][j-1] == true && s2[j-1] == s3[k-1]) {
+                    table[i][j] = true;
                     
-                    // the s2 == ""
-                } else if(j == 0) {
-                    dp[i][j] = ( dp[i-1][j] && (s1[i-1] == s3[i+j-1]) );
-                    
+                    // s1.substr(0, i) and s2.substr(0, j) can not form s3.substr(0, i+j)
                 } else {
-                    dp[i][j] = ( (dp[i-1][j] && s1[i-1] == s3[i+j-1]) || (dp[i][j-1] && s2[j-1] == s3[i+j-1]) );
-                    
+                    table[i][j] = false;
                 }
             }
         }
         
-        return dp[n1][n2];
+        // results
+        return table[s1.length()][s2.length()];
     }
 };
