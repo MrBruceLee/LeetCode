@@ -11,9 +11,8 @@ public:
         
         // initialization
         // t = "" is a subsequences of each s.substr(0, i)
-        for(int i = 0; i <= s.length(); i++) {
-            table[i][0] = 1;
-        }
+        table[0][0] = 1;
+        table[1][0] = 1;
         
         // transfer function
         // table[i][j]: the number of distinct subsequences of t.substr(0, j) in s.substr(0, i)

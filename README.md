@@ -32,6 +32,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./C++/EditDistance.cpp)| Hard |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/MinimumWindowSubstring.cpp)| Hard |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/WordSearch.cpp)| Medium |
+| [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./C++/RemoveDuplicatesFromSortedList.cpp)| Easy |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/LargestRectangleInHistogram.cpp)| Hard |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./C++/MaximalRectangle.cpp)| Hard |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/ScrambleString.cpp)| Hard |
