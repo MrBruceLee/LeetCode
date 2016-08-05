@@ -5,3 +5,8 @@ priority_queue: top()
 queue: front(), back()
 stack: top()
 empty(), size(), emplace(), swap()
+
+
+slow, fast pointer:
+1. slow = dummy; fast = dummy
+2. slow = head; fast = head->next

@@ -7,12 +7,14 @@
  * };
  */
 
+
 /*
  *  divide and conquer: runtime - O(N*log(N))
  */
 
+
 class Solution {
-public:
+    public:
     ListNode* sortList(ListNode* head) {
         // return the list, if the list only has 1 or 0 node.
         if(head == NULL || head->next == NULL) {
@@ -20,46 +22,42 @@ public:
         }
         
         // split the list into two sub-lists
-        ListNode dummy(0);
-        dummy.next = head;
-        ListNode* fast = &dummy;
-        ListNode* slow = &dummy;
+        ListNode* slow = head;
+        ListNode* fast = head->next;
         while(fast != NULL && fast->next != NULL) {
-            fast = fast->next->next;
             slow = slow->next;
+            fast = fast->next->next;
         }
         
-        ListNode* list1 = head; // first list
-        ListNode* list2 = slow->next; // second list
+        ListNode* left = head; // left list
+        ListNode* right = slow->next; // right list
         slow->next = NULL;
         
         // sorted two sub-lists separately: divide
-        list1 = sortList(list1);
-        list2 = sortList(list2);
+        left = sortList(left);
+        right = sortList(right);
         
         // merge two sorted sub-lists: conquer
-        head = &dummy;
-        while(list1 != NULL && list2 != NULL) {
-            if(list1->val < list2->val) {
-                head->next = list1;
-                list1 = list1->next;
+        ListNode* dummy = new ListNode(0);
+        ListNode* list = dummy;
+        while(left != NULL && right != NULL) {
+            if(left->val < right->val) {
+                list->next = left;
+                left = left->next;
             } else {
-                head->next = list2;
-                list2 = list2->next;
+                list->next = right;
+                right = right->next;
             }
-            head = head->next;
+            list = list->next;
         }
-        
-        if(list1 != NULL) {
-            head->next = list1;
-        } else if(list2 != NULL) {
-            head->next = list2;
-        } else {
-            head->next = NULL;
+        if(left != NULL) {
+            list->next = left;
+        } else if (right != NULL) {
+            list->next = right;
         }
         
         // return the merged list
-        return dummy.next;
-        
+        return dummy->next;
     }
+    
 };
