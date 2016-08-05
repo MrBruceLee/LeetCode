@@ -37,7 +37,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/LargestRectangleInHistogram.cpp)| Hard |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./C++/MaximalRectangle.cpp)| Hard |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/ScrambleString.cpp)| Hard |
-| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./C++/ReverseLinkedList-II.cpp)| Medium |
+| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./C++/ReverseLinkedList-II.cpp), [Java](./Java/ReverseLinkedList-II.java)| Medium |
 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./C++/InterleavingString.cpp)| Hard |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./C++/ValidateBinarySearchTree.cpp)| Medium |
 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/RecoverBinarySearchTree.cpp)| Hard |

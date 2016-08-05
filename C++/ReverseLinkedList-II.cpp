@@ -1,7 +1,7 @@
 /*
- *  1. split into three lists
+ *  1. split the given list into three sub-lists
  *  2. reverse the second list
- *  3. combine into one list
+ *  3. combine into a single list as the final results
  */
 
 
@@ -17,6 +17,7 @@ public:
         ListNode* list2end = NULL;
         ListNode* list3start = NULL;
         
+        // step 1
         for(int i = 0; i <= n; i++) {
             if(i == m - 1) {
                 list1end = head;
@@ -30,6 +31,7 @@ public:
         list2start = list1end->next;
         list3start = list2end->next;
         
+        // step 2
         list2end->next = NULL;
         list2end = list2start;
         while(list2start != NULL) {
@@ -39,6 +41,7 @@ public:
             list2start = tmp;
         }
         
+        // step 3
         list2end->next = list3start;
         
         return dummy->next;
