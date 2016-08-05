@@ -36,6 +36,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./C++/RemoveDuplicatesFromSortedList.cpp)| Easy |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/LargestRectangleInHistogram.cpp)| Hard |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./C++/MaximalRectangle.cpp)| Hard |
+| [86. Partition List](https://leetcode.com/problems/partition-list/) | [C++](./C++/PartitionList.cpp)| Medium |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/ScrambleString.cpp)| Hard |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./C++/ReverseLinkedList-II.cpp), [Java](./Java/ReverseLinkedList-II.java)| Medium |
 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./C++/InterleavingString.cpp)| Hard |
