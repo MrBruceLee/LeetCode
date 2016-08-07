@@ -57,6 +57,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [135. Candy](https://leetcode.com/problems/candy/) | [C++](./C++/Candy.cpp)| Hard |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [C++](./C++/WordBreak.cpp)| Medium |
 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](./C++/WordBreak-II.cpp)| Hard |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./C++/LinkedListCycle.cpp)| Easy |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/BinaryTreePostorderTraversal.cpp)| Hard |
 | [148. Sort List](https://leetcode.com/problems/sort-list/) | [C++](./C++/SortList.cpp)| Medium |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./C++/FindMinimumInRotatedSortedArray.cpp)| Medium |
