@@ -16,9 +16,6 @@ public:
         // priority_queue constructor
         priority_queue<ListNode*, vector<ListNode*>, compare> pq;
         
-        ListNode* dummy = new ListNode(0);
-        ListNode* tail = dummy;
-        
         // K * log(K)
         for(int i = 0; i < lists.size(); i++) {
             if(lists[i] != NULL) {
@@ -26,6 +23,8 @@ public:
             }
         }
         
+        ListNode* dummy = new ListNode(0);
+        ListNode* tail = dummy;
         // N * K * log(K)
         while(pq.empty() == false) {
             tail->next = pq.top();

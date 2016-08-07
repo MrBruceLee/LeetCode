@@ -1,10 +1,19 @@
+priority_queue is max heap by default
 minHeap: priority_queue<int, vector<int>, greater<int>>
 maxHeap: priority_queue<int, vector<int>, less<int>>
+
+minHeap: priority_queue<int, vector<int>, compare>
+struct compare {
+    bool operator()(ListNode* v1, ListNode* v2) {
+        return v1->val > v2->val;
+    }
+};
 
 priority_queue: top()
 queue: front(), back()
 stack: top()
 empty(), size(), emplace(), swap()
+
 
 
 slow, fast pointer:
