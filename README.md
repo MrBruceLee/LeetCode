@@ -55,6 +55,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [C++](./C++/PalindromePartitioning.cpp)| Medium |
 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/PalindromePartitioning-II.cpp)| Hard |
 | [135. Candy](https://leetcode.com/problems/candy/) | [C++](./C++/Candy.cpp)| Hard |
+| [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/CopyListWithRandomPointer.cpp)| Hard |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [C++](./C++/WordBreak.cpp)| Medium |
 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](./C++/WordBreak-II.cpp)| Hard |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./C++/LinkedListCycle.cpp)| Easy |
