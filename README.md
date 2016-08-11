@@ -33,6 +33,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](./C++/InsertInterval.cpp)| Hard |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./C++/EditDistance.cpp)| Hard |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/MinimumWindowSubstring.cpp)| Hard |
+| [78. Subsets](https://leetcode.com/problems/subsets/) | [C++](./C++/subsets.cpp)| Mediume |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/WordSearch.cpp)| Medium |
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./C++/RemoveDuplicatesFromSortedList-II.cpp), [Java](./Java/RemoveDuplicatesFromSortedList-II.java)| Medium |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./C++/RemoveDuplicatesFromSortedList.cpp)| Easy |
