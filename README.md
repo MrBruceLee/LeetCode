@@ -24,6 +24,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./C++/FirstMissingPositive.cpp)| Hard |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/TrappingRainWater.cpp)| Hard |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [C++](./C++/JumpGame-II.cpp)| Hard |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | [C++](./C++/Permutations.cpp)| Medium |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | [C++](./C++/N-Queens.cpp)| Hard |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/N-Queens-II.cpp)| Hard |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/JumpGame.cpp)| Medium |
