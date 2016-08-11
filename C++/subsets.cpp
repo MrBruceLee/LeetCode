@@ -1,3 +1,8 @@
+/*
+ *  runtime - O(2^N)
+ */
+
+
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
