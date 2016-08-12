@@ -22,7 +22,7 @@ private:
         }
         
         for(int i = idx; i < nums.size(); i++) {
-            if(i > idx && nums[idx] == nums[i]) {
+            if(i > idx && nums[i] == nums[idx]) {
                 continue;
             }
             

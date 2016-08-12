@@ -41,6 +41,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./C++/MaximalRectangle.cpp)| Hard |
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | [C++](./C++/PartitionList.cpp)| Medium |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/ScrambleString.cpp)| Hard |
+| [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [C++](./C++/Subsets-II.cpp)| Medium |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./C++/ReverseLinkedList-II.cpp), [Java](./Java/ReverseLinkedList-II.java)| Medium |
 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | [C++](./C++/InterleavingString.cpp)| Hard |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./C++/ValidateBinarySearchTree.cpp)| Medium |
