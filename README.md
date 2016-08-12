@@ -134,6 +134,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./C++/ReverseString.cpp)| Easy |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./C++/NestedListWeightSum-II.cpp)| Medium |
+| [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./C++/CombinationSum-IV.cpp)| Medium |
 | []() | [C++](./C++/.cpp)|  |
 | []() | [C++](./C++/.cpp), [Java](./Java/.java)|  |
 
