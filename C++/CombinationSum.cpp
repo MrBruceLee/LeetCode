@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end());
+        
         vector<vector<int>> results;
         vector<int> comb;
         combinationHelper(0, target, comb, candidates, results);
