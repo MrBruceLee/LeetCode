@@ -21,6 +21,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/SearchInRotatedSortedArray.cpp)| Hard |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/ValidSudoku.cpp)| Easy |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](./C++/SudokuSolver.cpp)| Hard |
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./C++/CombinationSum.cpp)| Medium |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./C++/FirstMissingPositive.cpp)| Hard |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/TrappingRainWater.cpp)| Hard |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [C++](./C++/JumpGame-II.cpp)| Hard |
