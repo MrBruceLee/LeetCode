@@ -1,6 +1,15 @@
+/*
+ *  Simlilar with "90. Subsets II"
+ *  https://leetcode.com/problems/subsets-ii/
+ */
+
+
 class Solution {
 public:
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        // sort
+        sort(candidates.begin(), candidates.end());
+        
         vector<vector<int>> results;
         vector<int> comb;
         combinationHelper(0, 0, target, comb, candidates, results);
@@ -19,10 +28,14 @@ private:
         }
         
         for(int i = idx; i < candidates.size(); i++) {
+            if(i > idx && candidates[i] == candidates[i-1]) {
+                continue;
+            }
+            
             comb.push_back(candidates[i]);
             sum += candidates[i];
             
-            combinationHelper(i, sum, target, comb, candidates, results);
+            combinationHelper(i + 1, sum, target, comb, candidates, results);
             
             sum -= candidates[i];
             comb.pop_back();
