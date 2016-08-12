@@ -12,17 +12,17 @@ public:
         
         vector<vector<int>> results;
         vector<int> comb;
-        combinationHelper(0, 0, target, comb, candidates, results);
+        combinationHelper(0, target, comb, candidates, results);
         return results;
     }
     
 private:
-    void combinationHelper(int idx, int sum, int target, vector<int>& comb, vector<int>& candidates, vector<vector<int>>& results) {
-        if(sum > target) {
+    void combinationHelper(int idx, int target, vector<int>& comb, vector<int>& candidates, vector<vector<int>>& results) {
+        if(target < 0) {
             return;
         }
         
-        if(sum == target) {
+        if(target == 0) {
             results.push_back(comb);
             return;
         }
@@ -33,12 +33,13 @@ private:
             }
             
             comb.push_back(candidates[i]);
-            sum += candidates[i];
+            target -= candidates[i];
             
-            combinationHelper(i + 1, sum, target, comb, candidates, results);
+            combinationHelper(i + 1, target, comb, candidates, results);
             
-            sum -= candidates[i];
+            target += candidates[i];
             comb.pop_back();
         }
     }
+    
 };
