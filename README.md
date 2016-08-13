@@ -73,6 +73,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [148. Sort List](https://leetcode.com/problems/sort-list/) | [C++](./C++/SortList.cpp)| Medium |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./C++/FindMinimumInRotatedSortedArray.cpp)| Medium |
 | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./C++/FindMinimumInRotatedSortedArray-II.cpp)| Hard |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./C++/MinStack.cpp)| Easy |
 | [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [C++](./C++/ReadNCharactersGivenRead4.cpp)| Easy |
 | [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [C++](./C++/ReadNCharactersGivenRead4-II-CallMultipleTimes.cpp)| Hard |
 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [C++](./C++/LongestSubstringWithAtMostTwoDistinctCharacters.cpp)| Hard |
