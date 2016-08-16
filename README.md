@@ -64,6 +64,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/PalindromePartitioning-II.cpp)| Hard |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./C++/CloneGraph.cpp)| Medium |
 | [135. Candy](https://leetcode.com/problems/candy/) | [C++](./C++/Candy.cpp)| Hard |
+| [136. Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/SingleNumber.cpp)| Medium |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/CopyListWithRandomPointer.cpp)| Hard |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [C++](./C++/WordBreak.cpp)| Medium |
 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | [C++](./C++/WordBreak-II.cpp)| Hard |
