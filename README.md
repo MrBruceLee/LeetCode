@@ -105,6 +105,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./C++/MeetingRooms-II.cpp)| Medium |
 | [256. Paint House](https://leetcode.com/problems/paint-house/) | [C++](./C++/PaintHouse.cpp)| Medium |
 | [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./C++/3SumSmaller.cpp), [Java](./Java/3SumSmaller.java)| Medium |
+| [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./C++/SingleNumber-III.cpp)| Medium |
 | [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./C++/GraphValidTree.cpp)| Medium |
 | [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [C++](./C++/PaintHouse-II.cpp)| Hard |
 | [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [C++](./C++/ClosestBinarySearchTreeValue.cpp)| Easy |
