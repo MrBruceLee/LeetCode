@@ -30,10 +30,8 @@ public:
 
 
 /*
- *  Dynamic Programming
+ *  Dynamic Programming / Prifix Sum
  *  Runtime: O(N)    Space: O(1)
- *
- *
  */
 
 
