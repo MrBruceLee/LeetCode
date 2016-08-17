@@ -30,6 +30,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](./C++/Permutations-II.cpp)| Medium |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | [C++](./C++/N-Queens.cpp)| Hard |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/N-Queens-II.cpp)| Hard |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./C++/MaximumSubarray.cpp)| Medium |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/JumpGame.cpp)| Medium |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/MergeIntervals.cpp)| Hard |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](./C++/InsertInterval.cpp)| Hard |
