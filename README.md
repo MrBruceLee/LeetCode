@@ -35,6 +35,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/MergeIntervals.cpp)| Hard |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](./C++/InsertInterval.cpp)| Hard |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./C++/EditDistance.cpp)| Hard |
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./C++/SortColors.cpp)| Medium |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/MinimumWindowSubstring.cpp)| Hard |
 | [78. Subsets](https://leetcode.com/problems/subsets/) | [C++](./C++/subsets.cpp)| Mediume |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/WordSearch.cpp)| Medium |
