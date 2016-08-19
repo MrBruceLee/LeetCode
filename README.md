@@ -94,6 +94,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./C++/ReverseLinkedList.cpp), [Java](./Java/ReverseLinkedList.java)| Easy |
 | [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [C++](./C++/AddAndSearchWord-DataStructureDesign.cpp)| Medium |
 | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | [C++](./C++/WordSearch-II.cpp)| Hard |
+| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [C++](./C++/HouseRobber-II.cpp)| Medium |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [C++](./C++/CombinationSum-III.cpp)| Medium |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [C++](./C++/TheSkylineProblem.cpp)| Hard |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./C++/BasicCalculator.cpp)| Hard |
