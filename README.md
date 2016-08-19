@@ -147,6 +147,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./C++/CountingBits.cpp)| Medium |
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](./C++/NestedListWeightSum.cpp)| Easy |
 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./C++/FlattenNestedListIterator.cpp)| Medium |
+| [342. Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](./C++/PowerOfFour.cpp)| Easy |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./C++/ReverseString.cpp)| Easy |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./C++/NestedListWeightSum-II.cpp)| Medium |
