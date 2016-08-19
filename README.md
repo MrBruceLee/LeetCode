@@ -89,6 +89,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./C++/TwoSum-III-DataStructureDesign.cpp)| Easy |
 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./C++/DungeonGame.cpp)| Hard |
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./C++/BestTimeToBuyAndSellStock-IV.cpp)| Hard |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | [C++](./C++/HouseRobber.cpp)| Easy |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/NumberOfIslands.cpp)| Medium |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./C++/ReverseLinkedList.cpp), [Java](./Java/ReverseLinkedList.java)| Easy |
 | [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [C++](./C++/AddAndSearchWord-DataStructureDesign.cpp)| Medium |
