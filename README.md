@@ -144,6 +144,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [335. Self Crossing](https://leetcode.com/problems/self-crossing/) | [C++](./C++/SelfCrossing.cpp)| Hard |
 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [C++](./C++/PalindromePairs.cpp)| Hard |
 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [C++](./C++/HouseRobber-III.cpp)| Medium |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./C++/CountingBits.cpp)| Medium |
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](./C++/NestedListWeightSum.cpp)| Easy |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./C++/ReverseString.cpp)| Easy |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
