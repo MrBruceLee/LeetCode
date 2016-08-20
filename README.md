@@ -152,6 +152,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./C++/ReverseString.cpp)| Easy |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./C++/ReverseVowelsOfAString.cpp)| Easy |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./C++/MovingAverageFromDataStream.cpp)| Easy |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./C++/TopKFrequentElements.cpp)| Medium |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./C++/NestedListWeightSum-II.cpp)| Medium |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./C++/CombinationSum-IV.cpp)| Medium |
