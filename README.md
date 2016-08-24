@@ -156,6 +156,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [C++](./C++/DesignTic-Tac-Toe.cpp)| Medium |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./C++/IntersectionOfTwoArrays.cpp)| Easy |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./C++/IntersectionOfTwoArrays-II.cpp)| Easy |
+| [356. Line Reflection](https://leetcode.com/problems/line-reflection/) | [C++](./C++/LineReflection.cpp)| Medium |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./C++/NestedListWeightSum-II.cpp)| Medium |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./C++/CombinationSum-IV.cpp)| Medium |
