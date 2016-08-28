@@ -161,6 +161,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [C++](./C++/LoggerRateLimiter.cpp)| Easy |
 | [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | [C++](./C++/SortTransformedArray.cpp)| Medium |
+| [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | [C++](./C++/BombEnemy.cpp)| Medium |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./C++/NestedListWeightSum-II.cpp)| Medium |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./C++/CombinationSum-IV.cpp)| Medium |
 | []() | [C++](./C++/.cpp)|  |
