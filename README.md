@@ -164,6 +164,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | [C++](./C++/BombEnemy.cpp)| Medium |
 | [362. Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [C++](./C++/DesignHitCounter.cpp)| Medium |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./C++/NestedListWeightSum-II.cpp)| Medium |
+| [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [C++](./C++/FindLeavesOfBinaryTree.cpp)| Medium |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./C++/CombinationSum-IV.cpp)| Medium |
 | []() | [C++](./C++/.cpp)|  |
 | []() | [C++](./C++/.cpp), [Java](./Java/.java)|  |
