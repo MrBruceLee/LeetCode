@@ -168,7 +168,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [369. Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [C++](./C++/PlusOneLinkedList.cpp)| Medium |
 | [370. Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./C++/RangeAddition.cpp)| Medium |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./C++/CombinationSum-IV.cpp)| Medium |
-| [379. Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [Java](./Java++/DesignPhoneDirectory.java)| Medium |
+| [379. Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [Java](./Java/DesignPhoneDirectory.java)| Medium |
 | []() | [C++](./C++/.cpp)|  |
 | []() | [C++](./C++/.cpp), [Java](./Java/.java)|  |
 
