@@ -158,6 +158,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./C++/IntersectionOfTwoArrays-II.cpp)| Easy |
 | [351. Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | [C++](./C++/AndroidUnlockPatterns.cpp)| Medium |
 | [356. Line Reflection](https://leetcode.com/problems/line-reflection/) | [C++](./C++/LineReflection.cpp)| Medium |
+| [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./C++/CountNumbersWithUniqueDigits.cpp)| Medium |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [C++](./C++/LoggerRateLimiter.cpp)| Easy |
 | [360. Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | [C++](./C++/SortTransformedArray.cpp)| Medium |
