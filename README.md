@@ -157,6 +157,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./C++/IntersectionOfTwoArrays.cpp)| Easy |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./C++/IntersectionOfTwoArrays-II.cpp)| Easy |
 | [351. Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | [C++](./C++/AndroidUnlockPatterns.cpp)| Medium |
+| [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [C++](./C++/DataStreamAsDisjointIntervals.cpp)| Hard |
 | [356. Line Reflection](https://leetcode.com/problems/line-reflection/) | [C++](./C++/LineReflection.cpp)| Medium |
 | [357. Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./C++/CountNumbersWithUniqueDigits.cpp)| Medium |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./C++/RearrangeStringKDistanceApart.cpp)| Hard |
