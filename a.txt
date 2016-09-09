@@ -22,3 +22,16 @@ slow, fast pointer:
 
 std::string::find
 return —> size_t (the position) or string::ncos (can not found)
+
+
+
+352. Data Stream as Disjoint Intervals
+
+“set”
+std::set::lower_bound
+Returns an iterator pointing to the first element in the container which is not considered to go before val (i.e., either it is equivalent or goes after).
+std::set::upper_bound
+Returns an iterator pointing to the first element in the container which is considered to go after val.
+
+std::prev
+Returns an iterator pointing to the element that it would be pointing to if advanced -n positions.
