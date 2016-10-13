@@ -34,6 +34,7 @@ Solutions may developed by different author. I will indicate links in each file.
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/JumpGame.cpp)| Medium |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./C++/MergeIntervals.cpp)| Hard |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](./C++/InsertInterval.cpp)| Hard |
+| [66. Plus One](https://leetcode.com/problems/plus-one/) | [C++](./C++/PlusOne.cpp)| Easy |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](./C++/EditDistance.cpp)| Hard |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./C++/SortColors.cpp)| Medium |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/MinimumWindowSubstring.cpp)| Hard |
@@ -175,6 +176,4 @@ Solutions may developed by different author. I will indicate links in each file.
 | [379. Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [Java](./Java/DesignPhoneDirectory.java)| Medium |
 | []() | [C++](./C++/.cpp)|  |
 | []() | [C++](./C++/.cpp), [Java](./Java/.java)|  |
-
-
 
