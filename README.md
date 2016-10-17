@@ -2,9 +2,6 @@
 
 My personal use.
 
-Solutions may developed by different author. I will indicate links in each file.
-
-
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./C++/TwoSum.cpp)| Easy |
